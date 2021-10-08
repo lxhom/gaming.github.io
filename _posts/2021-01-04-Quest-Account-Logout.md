@@ -13,7 +13,7 @@ tags:
 ---
 
 ## Please read before you continue
-This tutorial has been tested on multiple Quest 1 and 2 devices, but there is always the chance that something might not work on your device and that something will break. If you just want to use your Quest 2 without a Facebook account and are okay with using an unmerged Oculus/Oculus developer account follow this [Video Tutorial](https://www.youtube.com/watch?v=5cyijb7CJZU), which has *no* side effects. ~~Then do the "Disabling additional Telemetry" and maybe "Prevent logging back in and disable killswitch" of this tutorial.~~ (This part has been removed, as it doesn't work after update V25.)
+This tutorial has been tested on multiple Quest 1 and 2 devices, but there is always the chance that something might not work on your device and that something will break. If you just want to use your Quest 2 without a Facebook account and are okay with using an unmerged Oculus/Oculus developer account follow this [Video Tutorial](https://www.youtube.com/watch?v=5cyijb7CJZU), which has *no* side effects. If you don't have an Oculus account and don't want these side effects consider watching this [Video Tutorial](https://www.youtube.com/watch?v=ArXk_hob4RE) by me to just disable Telemetry.
 
 I'd like to thank [u/fisk47](https://www.reddit.com/user/fisk47) and [u/doctor_blob](https://www.reddit.com/user/doctor_blob) for testing this on their Quests.
 
