@@ -19,6 +19,7 @@ I'd like to thank [u/fisk47](https://www.reddit.com/user/fisk47) and [u/doctor_b
 
 ##### What does work?
 - Hand tracking
+- PCVR via Oculus Link, Airlink or ALVR
 - Using sideloaded apps and sideloading apps still works
 
 ##### What doesn't work?
