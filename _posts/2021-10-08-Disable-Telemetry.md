@@ -48,7 +48,9 @@ If you already know how to sideload an APK to the Quest, just download the APK f
 ![Run ADB commands](/assets/images/posts/adb.PNG)
 3. Select "CUSTOM COMMAND" from the dropdown menu
 4. Enter the following command
-```adb shell dpm set-device-owner com.bos.oculess/.DevAdminReceiver```
+```
+adb shell dpm set-device-owner com.bos.oculess/.DevAdminReceiver
+```
 5. Click "RUN COMMAND"
 
 ### Disable Telemetry
