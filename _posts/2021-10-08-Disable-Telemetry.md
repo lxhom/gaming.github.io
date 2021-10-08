@@ -55,7 +55,7 @@ adb shell dpm set-device-owner com.bos.oculess/.DevAdminReceiver
 
 ### Disable Telemetry
 1. Open the app (again)
-2. Click on the "TELEMTRY" button
+2. Click on the "TELEMETRY" button
 3. Select "OK"
 
 ### That's all
