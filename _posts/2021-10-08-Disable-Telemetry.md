@@ -14,7 +14,6 @@ tags:
 ---
 
 ## Video Tutorial
-
 If you prefer a video tutorial you can watch [this one](https://www.youtube.com/watch?v=ArXk_hob4RE) I made back in april, but please read the pinned comment as it's a little outdated.
 
 ## What is Telemetry?
