@@ -16,10 +16,8 @@ tags:
 ## Video Tutorial
 If you prefer a video tutorial you can watch [this one](https://www.youtube.com/watch?v=aMnHgz2Zo3E) I made.
 
-# Spotify and Discord on Quest in the Background
-
 ## Intro
-Hello and welcome, today I want to show you can enable background audio recording and playback on the Oculus Quest.
+Hello and welcome, today I’m going to show you how to enable background audio recording and playback on the Oculus Quest.
 
 ## Enable Developer mode
 First you will need to enable Developer mode on your Quest, most of you probably already have it enabled, you can follow [this tutorial to enable developer mode](https://developer.oculus.com/documentation/native/android/mobile-device-setup/)
