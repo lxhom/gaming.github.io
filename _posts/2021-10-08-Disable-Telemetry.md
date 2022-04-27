@@ -1,7 +1,6 @@
 ---
 title: Prevent FaceBook from spying on you
 layout: posts
-#post-image: /assets/images/posts/Disable-Telemetry.png
 description: This tutorial will show you how to disable Telemetry on your Oculus Quest (2)
 tags:
 - post

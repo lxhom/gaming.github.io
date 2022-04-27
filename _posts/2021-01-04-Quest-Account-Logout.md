@@ -1,7 +1,6 @@
 ---
 title: Using the Oculus Quest without an Account
 layout: posts
-post-image: /assets/images/posts/Account-Removal.png
 description: This tutorial will show you how to log out from your Oculus/Facebook account on your Oculus Quest
 tags:
 - post

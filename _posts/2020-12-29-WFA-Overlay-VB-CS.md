@@ -1,7 +1,6 @@
 ---
 title: Simple WFA Overlay
 layout: posts
-post-image: /assets/images/posts/Overlay.png
 description: Making a simple WFA overlay in vs.net and c#.net (for games)
 tags:
 - post
